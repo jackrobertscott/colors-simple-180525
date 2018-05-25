@@ -1,12 +1,12 @@
 {
   "name": "colors-simple",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A collection of color scales.",
   "main": "index.json",
   "scripts": {
     "build": "node lib",
     "prepublish": "npm run build",
-    "test": "prettier --write --loglevel=warn '*.js' && ava"
+    "test": "npm run build && prettier --write --loglevel=warn '*.js' && ava"
   },
   "repository": {
     "type": "git",
@@ -33,7 +33,8 @@
     "node": ">=4"
   },
   "files": [
-    "index.json"
+    "colors.json",
+    "index.js"
   ],
   "devDependencies": {
     "ava": "^0.25.0",
