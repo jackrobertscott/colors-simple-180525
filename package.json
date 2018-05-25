@@ -1,5 +1,5 @@
 {
-  "name": "more-colors",
+  "name": "colors-simple",
   "version": "1.0.0",
   "description": "A collection of color scales.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackrobertscott/more-colors.git"
+    "url": "git+https://github.com/jackrobertscott/colors-simple.git"
   },
   "keywords": [
     "colors",
@@ -24,9 +24,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jackrobertscott/more-colors/issues"
+    "url": "https://github.com/jackrobertscott/colors-simple/issues"
   },
-  "homepage": "https://github.com/jackrobertscott/more-colors#readme",
+  "homepage": "https://github.com/jackrobertscott/colors-simple#readme",
   "engines": {
     "node": ">=4"
   },

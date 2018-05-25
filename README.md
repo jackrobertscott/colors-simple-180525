@@ -1,4 +1,4 @@
-# more-colors
+# colors-simple
 
 > A collection of color scales for easy use.
 
@@ -8,19 +8,19 @@ Easy to use color scales. Great for use in string templates such as in [styled-c
 
 ## Install
 
-Get started by installing more-colors.
+Get started by installing colors-simple.
 
 ```sh
-npm install --save more-colors
+npm install --save colors-simple
 ```
 
 ## Usage
 
-Import the colors and start using with *no* setup required.
+Import the colors and start using with no setup required.
 
 ```js
 import styled from 'styled-components';
-import colors from 'more-colors';
+import colors from 'colors-simple';
 
 export const Example = styled.div`
   height: 100px;
