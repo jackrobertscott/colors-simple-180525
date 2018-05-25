@@ -1,6 +1,6 @@
 var test = require('ava');
 var upperCase = require('upper-case');
-var colors = require('./lib/colors');
+var colors = require('./lib/shades');
 var scales = require('.');
 
 colors.forEach(color => {

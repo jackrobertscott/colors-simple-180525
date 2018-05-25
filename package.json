@@ -7,7 +7,7 @@
   "scripts": {
     "build": "node lib",
     "prepublish": "npm run build",
-    "test": "npm run build && prettier --write --loglevel=warn '*.js' && ava"
+    "test": "npm run build && prettier --write --loglevel=warn '**/*.js' && ava"
   },
   "repository": {
     "type": "git",
