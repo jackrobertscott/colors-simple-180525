@@ -1,6 +1,6 @@
 # colors-simple
 
-> A collection of color scales for easy use.
+> Simple, attractive color scales
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
