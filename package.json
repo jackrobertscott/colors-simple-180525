@@ -1,8 +1,9 @@
 {
   "name": "colors-simple",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A collection of color scales.",
-  "main": "index.json",
+  "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "build": "node lib",
     "prepublish": "npm run build",
@@ -34,7 +35,8 @@
   },
   "files": [
     "colors.json",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "devDependencies": {
     "ava": "^0.25.0",
