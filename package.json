@@ -1,6 +1,6 @@
 {
   "name": "colors-simple",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "A collection of color scales.",
   "main": "index.js",
   "types": "index.d.ts",

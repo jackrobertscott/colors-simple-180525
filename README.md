@@ -31,28 +31,30 @@ export const Example = styled.div`
 
 ## Colors
 
-| Name | Example | Hex |
-|------|---------|-----|
-| TURQUOISE | `TURQUOISE0` | **#1abc9c** |
-| GREEN_SEA | `GREEN_SEA0` | **#16a085** |
-| EMERALD | `EMERALD0` | **#2ecc71** |
-| NEPHRITIS | `NEPHRITIS0` | **#27ae60** |
-| PETER_RIVER | `PETER_RIVER0` | **#3498db** |
-| BELIZE_HOLE | `BELIZE_HOLE0` | **#2980b9** |
-| AMETHYST | `AMETHYST0` | **#9b59b6** |
-| WISTERIA | `WISTERIA0` | **#8e44ad** |
-| WET_ASPHALT | `WET_ASPHALT0` | **#34495e** |
-| MIDNIGHT_BLUE | `MIDNIGHT_BLUE0` | **#2c3e50** |
-| SUNFLOWER | `SUNFLOWER0` | **#f1c40f** |
-| ORANGE | `ORANGE0` | **#f39c12** |
-| CARROT | `CARROT0` | **#e67e22** |
-| PUMPKIN | `PUMPKIN0` | **#d35400** |
-| ALIZARIN | `ALIZARIN0` | **#e74c3c** |
-| POMEGRANATE | `POMEGRANATE0` | **#c0392b** |
-| CLOUDS | `CLOUDS0` | **#ecf0f1** |
-| SILVER | `SILVER0` | **#bdc3c7** |
-| CONCRETE | `CONCRETE0` | **#95a5a6** |
-| ASBESTOS | `ASBESTOS0` | **#7f8c8d** |
+| Name | Example | Hex | Alias |
+|------|---------|-----|-------|
+| TURQUOISE | `TURQUOISE0` | **#1abc9c** |  |
+| GREEN_SEA | `GREEN_SEA0` | **#16a085** |  |
+| EMERALD | `EMERALD0` | **#2ecc71** |  |
+| NEPHRITIS | `NEPHRITIS0` | **#27ae60** | GREEN |
+| PETER_RIVER | `PETER_RIVER0` | **#3498db** | BLUE |
+| BELIZE_HOLE | `BELIZE_HOLE0` | **#2980b9** |  |
+| AMETHYST | `AMETHYST0` | **#9b59b6** |  |
+| WISTERIA | `WISTERIA0` | **#8e44ad** | PURPLE |
+| WET_ASPHALT | `WET_ASPHALT0` | **#34495e** | GREY |
+| MIDNIGHT_BLUE | `MIDNIGHT_BLUE0` | **#2c3e50** |  |
+| SUNFLOWER | `SUNFLOWER0` | **#f1c40f** | YELLOW |
+| ORANGE | `ORANGE0` | **#f39c12** |  |
+| CARROT | `CARROT0` | **#e67e22** |  |
+| PUMPKIN | `PUMPKIN0` | **#d35400** |  |
+| ALIZARIN | `ALIZARIN0` | **#e74c3c** |  |
+| POMEGRANATE | `POMEGRANATE0` | **#c0392b** | RED |
+| CLOUDS | `CLOUDS0` | **#ecf0f1** |  |
+| SILVER | `SILVER0` | **#bdc3c7** |  |
+| CONCRETE | `CONCRETE0` | **#95a5a6** |  |
+| ASBESTOS | `ASBESTOS0` | **#7f8c8d** |  |
+| BLACK | `BLACK` | **#000000** |  |
+| WHITE | `WHITE` | **#ffffff** |  |
 
 ## JSON
 
